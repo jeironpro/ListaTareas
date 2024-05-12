@@ -51,6 +51,7 @@ body {
     border: none;
     border-radius: 5px;
     color: #fff;
+    cursor: pointer;
     font-weight: 600;
     height: 36px;
     width: 200px;
@@ -90,12 +91,14 @@ body {
 
 .editar {
     color: #587ef4;
+    cursor: pointer;
     margin-left: auto;
     margin-right: 50px;
 }
 
 .eliminar {
     color: #ff0000;
+    cursor: pointer;
     margin-right: 10px;
 }
 
